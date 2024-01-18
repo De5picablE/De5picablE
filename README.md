@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### This is Jiaqi Li, a student from Tianjin, China.
+### I live on Delmar Blvd, the street filled with restaurants.
 <!--
 **De5picablE/De5picablE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
